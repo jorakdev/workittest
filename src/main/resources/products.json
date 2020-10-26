@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Crash Bandicoot 4 : It's About Time (PS4)",
+    "price": 51.0,
+    "category": "Jeux vidéo",
+    "site_id": 45
+  },
+  {
+    "id": 2,
+    "name": "Godfall Ascended Edition",
+    "price": 109.0,
+    "category": "Jeux vidéo",
+    "site_id": 45
+  },
+  {
+    "id": 3,
+    "name": "Dirt 5 Limited Edition",
+    "price": 59.0,
+    "category": "Jeux vidéo",
+    "site_id": 45
+  },
+  {
+    "id": 4,
+    "name": "FIFA 21 Jeu PS4 - Version PS5 incluse",
+    "price": 52.0,
+    "category": "Jeux vidéo",
+    "site_id": 20
+  },
+  {
+    "id": 5,
+    "name": "Marvel's Avengers Jeu PS4",
+    "price": 53.0,
+    "category": "Jeux vidéo",
+    "site_id": 20
+  },
+  {
+    "id": 6,
+    "name": "Call of Duty : Black OPS Cold War Jeu PS4",
+    "price": 57.0,
+    "category": "Jeux vidéo",
+    "site_id": 20
+  },
+  {
+    "id": 7,
+    "name": "The Last of Us Part II Jeu PS4",
+    "price": 54.0,
+    "category": "Jeux vidéo",
+    "site_id": 20
+  },
+  {
+    "id": 8,
+    "name": "Final Fantasy XV Day One Edition Jeu PS4",
+    "price": 10.0,
+    "category": "Jeux vidéo",
+    "site_id": 20
+  },
+  {
+    "id": 9,
+    "name": "Les Sims 4",
+    "price": 22.0,
+    "category": "Jeux vidéo",
+    "site_id": 32
+  },
+  {
+    "id": 10,
+    "name": "Star Wars: Squadrons",
+    "price": 30.0,
+    "category": "Jeux vidéo",
+    "site_id": 32
+  },
+  {
+    "id": 11,
+    "name": "EA Sports UFC 4",
+    "price": 84.0,
+    "category": "Jeux vidéo",
+    "site_id": 32
+  },
+  {
+    "id": 12,
+    "name": "Assassin's Creed Odyssey - Jeu PS4",
+    "price": 22.0,
+    "category": "Jeux vidéo",
+    "site_id": 12
+  },
+  {
+    "id": 13,
+    "name": "Nba 2K21",
+    "price": 45.0,
+    "category": "Jeux vidéo",
+    "site_id": 12
+  },
+  {
+    "id": 14,
+    "name": "Need For Speed Heat",
+    "price": 26.0,
+    "category": "Jeux vidéo",
+    "site_id": 12
+  }
+]
